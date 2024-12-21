@@ -1,0 +1,28 @@
+header {
+    padding: 20px 0;
+}
+
+header .flex {
+    padding: 0 2%;
+}
+
+.logotipo {
+    margin-right: 50px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+}
+
+header nav li {
+    padding: 5px 0;
+}
+
+header a.a-link {
+    padding: 15px 25px;
+}
+
+header .btn {
+    margin-left: 15px;
+}

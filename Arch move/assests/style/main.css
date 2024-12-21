@@ -1,0 +1,31 @@
+main.container{
+    margin-top: 25px;
+}
+
+.titlePrimary{
+    text-align: center;
+    font-weight: 500;
+    font-size: 80px;
+}
+
+main .flex{
+    margin-top: 35px;
+    align-items: start;
+    justify-content: space-evenly;
+}
+
+main p{
+    max-width: 290px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+main .btn{
+    margin-top: 60px;
+    font-size: 14px;
+    text-align: center;
+    width: 179px;
+    height: 56px;
+    padding: 0;
+}
