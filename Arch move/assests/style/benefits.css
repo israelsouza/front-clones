@@ -1,0 +1,42 @@
+#benefits{
+    margin-top: 100px;
+}
+
+#benefits .container{
+    margin-top: 80px;
+    max-width: 1050px;
+}
+
+.flex-content .flex{
+    align-items: start;
+}
+
+.feature{
+    max-width: 391px;
+    margin-bottom: 50px;
+}
+
+.feature img{
+    margin-right: 50px;
+}
+
+.feature h5{
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.feature p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.flex-content div#btn-container{
+    text-align: center;
+}
+
+.flex-content div .btn-o{
+    font-size: 12px;
+    margin-top: 20px;
+    padding: 20px 30px;
+    border: none;
+}
